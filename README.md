@@ -1,5 +1,6 @@
 # telegram-gruvbox
 gruvbox inspired telegram theme
+
 to use, simply open: https://t.me/addtheme/gruvboxTelegram
 
 ## Screenshots
